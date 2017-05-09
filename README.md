@@ -1,6 +1,6 @@
 # Turbo
 
-[build](https://img.shields.io/travis/op/go-logging.svg?style=flat)](https://travis-ci.org/vongang/turbo)
+[![build](https://img.shields.io/travis/op/go-logging.svg?style=flat)](https://travis-ci.org/vongang/turbo)
 
 ## Features
 TODO in-page link
