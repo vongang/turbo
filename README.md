@@ -1,4 +1,5 @@
 # Turbo
+[build](https://img.shields.io/travis/op/go-logging.svg?style=flat)](https://travis-ci.org/vongang/turbo)
 ## Features
 TODO in-page link
  * Turbo generates a reverse-proxy server which translates a HTTP request into a grpc request.
